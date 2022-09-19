@@ -18,7 +18,8 @@
       - Probability and Statistics
       - Technical Writing and Communication
 
-- 📫 How to reach me
+- 📫 How to reach me:
+
       - Email: sarahmuu333@hotmail.com
       - Phone #: 514-775-9538
       - LinkedIn: https://www.linkedin.com/in/sarah-mucci-a3a141224/
