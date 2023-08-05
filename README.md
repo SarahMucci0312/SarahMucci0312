@@ -4,11 +4,10 @@
 
 - 🌱 I’m currently enrolled in the following courses:
 
-      - Data Structures and Algorithms
-      - Principles of Programming Languages
-      - Web Programming 
-      - Elementary Numerical Methods
-      - Introduction to Information Literacy Skills
+      - Artificial Intelligence
+      - Intro to Game Development
+      - Intro to Software Engineering
+      - Operating Systems
  
 - ⭐ I’ve completed the following courses:
 
@@ -17,6 +16,7 @@
       - Discrete Mathematics
       - Probability and Statistics
       - Technical Writing and Communication
+      - Intro to Theoretical Computer Science 
 
 - 📫 How to reach me:
 
