@@ -16,7 +16,9 @@
       - Discrete Mathematics
       - Probability and Statistics
       - Technical Writing and Communication
-      - Intro to Theoretical Computer Science 
+      - Intro to Theoretical Computer Science
+      - Web Programming
+      - Data Structures and Algorithms
 
 - 📫 How to reach me:
 
