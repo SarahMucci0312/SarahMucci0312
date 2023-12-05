@@ -4,10 +4,10 @@
 
 - 🌱 I’m currently enrolled in the following courses:
 
-      - Artificial Intelligence
-      - Intro to Game Development
-      - Intro to Software Engineering
-      - Operating Systems
+      - Immersive Technologies
+      - Advanced Game Development
+      - Advanced C++
+      - Calculus III
  
 - ⭐ I’ve completed the following courses:
 
@@ -16,12 +16,17 @@
       - Discrete Mathematics
       - Probability and Statistics
       - Technical Writing and Communication
-      - Intro to Theoretical Computer Science
+      - Introduction to Theoretical Computer Science
       - Web Programming
       - Data Structures and Algorithms
+      - Artificial Intelligence
+      - Introduction to Game Development
+      - Introduction to Software Engineering
+      - Operating Systems
 
 - 📫 How to reach me:
 
       - Email: sarahmuu333@hotmail.com
       - Phone #: 514-775-9538
       - LinkedIn: https://www.linkedin.com/in/sarah-mucci-a3a141224/
+      - itch: https://fandomrainbow.itch.io/      
