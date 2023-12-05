@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SarahMucci0312! I'm a second year undergrad student at Concordia University majoring in Computer Science.
+- 👋 Hi, I’m @SarahMucci0312! I'm a third year undergrad student at Concordia University majoring in Computer Science.
 
 - 👀 I’m interested in learning all the I can about the different branches of computer science such as AI, cyber security, web programming and game creation!
 
