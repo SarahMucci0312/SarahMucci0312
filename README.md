@@ -1,29 +1,18 @@
-- 👋 Hi, I’m @SarahMucci0312! I'm a third year undergrad student at Concordia University majoring in Computer Science.
+- 👋 Hi, I’m @SarahMucci0312! I'm a recently graduated Concordia student with a Bachelors of Computer Science!
 
-- 👀 I’m interested in learning all the I can about the different branches of computer science such as AI, cyber security, web programming and game creation!
-
-- 🌱 I’m currently enrolled in the following courses:
-
-      - Immersive Technologies
-      - Advanced Game Development
-      - Advanced C++
-      - Calculus III
+- 👀 I’m interested in learning all the I can about the different branches of the field such as AI, cyber security, web programming and game creation!
  
-- ⭐ I’ve completed the following courses:
+- ⭐ I’ve taken courses specializing in:
 
-      - Object Oriented Programming I & II (in Java and Python)
-      - System Hardware
-      - Discrete Mathematics
-      - Probability and Statistics
-      - Technical Writing and Communication
-      - Introduction to Theoretical Computer Science
-      - Web Programming
-      - Data Structures and Algorithms
-      - Artificial Intelligence
-      - Introduction to Game Development
-      - Introduction to Software Engineering
-      - Operating Systems
+        - Game Design & Creation (Unity, Unreal)
+        - AI (Python)
+        - Web Programming (HTML, CSS, PHP)
+  
+- 🌱 Beyond my studies, I'm learning about:
 
+      - APIs
+      - ReactJS
+  
 - 📫 How to reach me:
 
       - Email: sarahmuu333@hotmail.com
